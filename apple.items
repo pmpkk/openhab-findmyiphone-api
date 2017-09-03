@@ -1,0 +1,11 @@
+
+/* Switches for actions */
+String apple_action
+Switch apple_find_iphone "My iPhone" [ "Switchable" ]
+
+DateTime apple_lastConnectionDateTime 
+
+/* Strings to store JSONs */
+
+String apple_device_list
+String apple_accounts
