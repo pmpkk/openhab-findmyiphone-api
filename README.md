@@ -13,7 +13,7 @@ Python script to allow OpenHAb (openhab.org) to send a "Find My iPhone Alert" to
 
 1. Add the apple.items file into openhab-conf/items and verify they have been added to your setup in Paper UI
 
-2. Place the apple.py file into the openhab-conf/script folder.
+2. Place the apple.py and myopenhab.py file into the openhab-conf/script folder.
 
 3. Run the python script from shell to set up:
 
